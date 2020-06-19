@@ -1,0 +1,17 @@
+
+input{
+  margin-bottom: 15px
+}
+h2{
+  text-align: center
+}
+.container{
+  width:100%
+}
+
+.login-form
+{
+    width:50%;
+    align-content: center;
+    padding-left: 20%;
+}
